@@ -1,0 +1,14 @@
+/Users/nastya/exemple/ex001_HelloConsole/bin/Debug/net7.0/ex001_HelloConsole
+/Users/nastya/exemple/ex001_HelloConsole/bin/Debug/net7.0/ex001_HelloConsole.deps.json
+/Users/nastya/exemple/ex001_HelloConsole/bin/Debug/net7.0/ex001_HelloConsole.runtimeconfig.json
+/Users/nastya/exemple/ex001_HelloConsole/bin/Debug/net7.0/ex001_HelloConsole.dll
+/Users/nastya/exemple/ex001_HelloConsole/bin/Debug/net7.0/ex001_HelloConsole.pdb
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/ex001_HelloConsole.AssemblyInfoInputs.cache
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/ex001_HelloConsole.AssemblyInfo.cs
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/ex001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/ex001_HelloConsole.dll
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/refint/ex001_HelloConsole.dll
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/ex001_HelloConsole.pdb
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/ex001_HelloConsole.genruntimeconfig.cache
+/Users/nastya/exemple/ex001_HelloConsole/obj/Debug/net7.0/ref/ex001_HelloConsole.dll
